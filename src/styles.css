@@ -7,16 +7,16 @@ p {
   text-align: center;
 }
 
-.links {
-  color: green;
+.menu {
   display: flex;
   justify-content: center;
 }
 
-a {
+.navigator-link {
+  color: green;
   margin-right: 20px;
 }
 
-a:visited {
+.navigator-link:visited {
   color: green;
 }
