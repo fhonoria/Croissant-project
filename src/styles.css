@@ -7,6 +7,12 @@ p {
   text-align: center;
 }
 
+img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
 .menu {
   display: flex;
   justify-content: center;
